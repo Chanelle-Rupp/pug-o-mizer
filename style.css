@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.pick-me-up {
+    padding: 30px;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.picture {
+    padding: 5%;
+    color: #fff;
+}
+
+.btn {
+    background-color: none;
+    border: 1px;
+    color: #000;
+    box-shadow: 2px 4px 6px #000;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+
+.text-center {
+    background-image: radial-gradient(#ff82c7, #c0ffa4);
+    height: 100%;
+    width: 100%;
+
+}
